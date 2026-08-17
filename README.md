@@ -47,7 +47,7 @@ My goal is to continuously strengthen my engineering skills and grow into a capa
 
 </div></td>
 </tr>
-</table>---
+</table>
 
 ⚡ WHAT I BUILD
 
@@ -57,7 +57,7 @@ NLP| Git & GitHub| Pandas
 Semantic Matching| OOP| NumPy
 Recommendation Systems| Problem Solving| SQL
 
-</div>---
+</div>
 
 🛠️ TECHNOLOGY STACK
 
@@ -78,7 +78,7 @@ Recommendation Systems| Problem Solving| SQL
 ⚙️ ML Workflow| Feature Engineering • Model Development • Evaluation
 📚 Recommendation Systems| Similarity-Based Filtering • Personalized Recommendations
 
-</div>---
+</div>
 
 🚀 FEATURED PROJECTS
 
@@ -171,7 +171,7 @@ Areas of Exposure
 
 "Artificial Intelligence" · "Machine Learning" · "Data Science" · "Data Analytics"
 
----
+
 
 🎓 EDUCATION
 
@@ -185,7 +185,7 @@ Srinivasa Institute of Engineering and Technology
 
 "Data Structures" · "Machine Learning" · "Artificial Intelligence" · "Database Management Systems"
 
-</div>---
+</div>
 
 🏅 CERTIFICATIONS
 
@@ -219,7 +219,7 @@ src="https://raw.githubusercontent.com/sindhukonda32-hash/sindhukonda32-hash/out
 alt="GitHub Contribution Snake"
 width="95%">
 
-</picture></div>---
+</picture></div>
 
 🛰️ CURRENT AI MISSION
 
@@ -255,7 +255,7 @@ CREATE
 Build useful intelligent solutions.
 
 </td></tr>
-</table>---
+</table>
 
 🔭 CURRENTLY EXPLORING
 
